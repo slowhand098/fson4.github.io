@@ -1,0 +1,14 @@
+{
+	"name": "N-back Task",
+	"short_name": "N-back Task",
+	"description": "A dual n-back memory task web application",
+	"id": "/nb/",
+	"start_url": "/nb/",
+	"display": "standalone",
+	"background_color": "#888",
+	"theme_color": "#000",
+	"icons": [
+		{ "src": "img/icon.svg", "type": "image/svg+xml", "sizes": "any", "purpose": "any maskable" },
+		{ "src": "img/icon.png", "type": "image/png", "sizes": "192x192", "purpose": "any maskable" }
+	]
+}

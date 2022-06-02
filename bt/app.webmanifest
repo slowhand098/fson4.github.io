@@ -1,0 +1,14 @@
+{
+	"name": "Backwards Task",
+	"short_name": "Backwards",
+	"description": "A reverse memory span task web application",
+	"id": "/bt/",
+	"start_url": "/bt/",
+	"display": "standalone",
+	"background_color": "#000",
+	"theme_color": "#000",
+	"icons": [
+		{ "src": "img/icon.svg", "type": "image/svg+xml", "sizes": "any", "purpose": "any maskable" },
+		{ "src": "img/icon.png", "type": "image/png", "sizes": "192x192", "purpose": "any maskable" }
+	]
+}

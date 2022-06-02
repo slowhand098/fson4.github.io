@@ -1,0 +1,14 @@
+{
+	"name": "Memory Task",
+	"short_name": "Memory Task",
+	"description": "A masking- and limited-hold memory task web application",
+	"id": "/mt/",
+	"start_url": "/mt/",
+	"display": "standalone",
+	"background_color": "#000",
+	"theme_color": "#000",
+	"icons": [
+		{ "src": "img/icon.svg", "type": "image/svg+xml", "sizes": "any", "purpose": "any maskable" },
+		{ "src": "img/icon.png", "type": "image/png", "sizes": "192x192", "purpose": "any maskable" }
+	]
+}
